@@ -1,0 +1,2 @@
+rootProject.name = "MiniGame"
+include ':app'
